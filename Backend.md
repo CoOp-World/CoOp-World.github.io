@@ -1,4 +1,4 @@
 ---
 title: Backend
-layout: home
+layout: page
 ---
